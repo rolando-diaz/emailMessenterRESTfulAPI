@@ -1,4 +1,4 @@
-Messaging Service (github) (RESTful API)
+Messaging Service RESTful API
 
 – This RESTful API is one of the backbones of my portfolio, it's running as an stand-alone microservice ready to receive and respond to http requests. Upon each HttpRequest from the Contact page, the form parameters are sent out to the RESTful API over the browser as a JSON object.
 
